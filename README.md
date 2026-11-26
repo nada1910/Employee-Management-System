@@ -1,10 +1,4 @@
-# Employee-Management-System
 # Employee Management System: Nada's Part
-
-Programming II (Fall 2026), Lab 7
-**Author:** Nada, Student ID: `[ID]`, Group: `[GROUP NUMBER]`
-
-This README describes only the classes I implemented. The employee classes, department classes, file handling and the remaining panels were done by my teammates.
 
 ## 1. My Classes
 
